@@ -12,11 +12,11 @@
 
 ## Elérhetőségek
 
-### reFilc napló
+### reFilc
 -   [Discord](https://discord.com/invite/7d6cn3Yypz)
 -   [Github](https://github.com/refilc)
 
-### Filc napló
+### Filc Napló
 -   [Discord](https://discord.gg/GqzTJj5)
 -   [Github fiók](https://github.com/filcnaplo)
 -   [Github szervezet](https://github.com/filc)
