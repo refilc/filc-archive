@@ -21,6 +21,10 @@
 -   [Github profile](https://github.com/filcnaplo)
 -   [Github organization](https://github.com/filc)
 
+### Szivacs Napló
+- [Github](https://github.com/boapps/Szivacs-Naplo)
+- [Telegram Chat](https://t.me/eSzivacs/)
+
 ### Arisztokréta
 -   [Discord](https://discord.gg/k3e2pqC)
 -   [Github repo](https://github.com/Coware-Apps/ellenorzo)
