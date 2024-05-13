@@ -13,10 +13,13 @@
 ## Elérhetőségek
 
 ### reFilc
+-   [Weboldal](https://refilc.hu)
 -   [Discord](https://discord.com/invite/7d6cn3Yypz)
 -   [Github](https://github.com/refilc)
+-   [Telegram hírlevél](https://t.me/refilc)
 
 ### Filc Napló
+-   [Volt weboldal](https://filc.vercel.app)
 -   [Discord](https://discord.gg/GqzTJj5)
 -   [Github fiók](https://github.com/filcnaplo)
 -   [Github szervezet](https://github.com/filc)
