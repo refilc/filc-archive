@@ -36,4 +36,6 @@
 
 ### Szivacs (2018.01.03-2020.01.28.)
 -   [Github](https://github.com/boapps/Szivacs-Naplo)
+-   [Github Old](https://github.com/boapps/eSzivacs)
+-   [Github website](https://github.com/boapps/e-Szivacs-weboldal)
 -   [Telegram](https://t.me/eSzivacs/)
