@@ -1,12 +1,12 @@
 # Kréta alternatives archive
 
-> Last updated: 2024.05.13.
+> Last updated: 2024.05.14.
 
 > Languages: [Magyar](README.md), [English](README_en.md)
 
 ## Contents
 
-- [Contacts](#elérhetőségek)
+- [Contacts](#contacts)
 - [Images](Images/README_en.md)
 - [Websites](Sites/README_en.md)
 - [Releases](Releases/README_en.md)
@@ -29,7 +29,7 @@
 -   [Github](https://github.com/Coware-Apps/naplo)
 
 ### reFilc
--   [Weboldal](https://refilc.hu)
+-   [Website](https://refilc.hu)
 -   [Discord](https://discord.com/invite/7d6cn3Yypz)
 -   [Github](https://github.com/refilc)
 -   [Telegram News](https://t.me/refilc)
