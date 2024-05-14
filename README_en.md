@@ -13,6 +13,15 @@
 
 ## Contacts
 
+### Szivacs (2018.01.03-2020.01.28.)
+-   [Github](https://github.com/boapps/Szivacs-Naplo)
+-   [Github Old](https://github.com/boapps/eSzivacs)
+-   [Github website](https://github.com/boapps/e-Szivacs-weboldal)
+-   [Telegram](https://t.me/eSzivacs/)
+
+### Napló + (2019.12.24-2021.01.26.)
+-   [Github](https://github.com/Coware-Apps/naplo)
+
 ### Arisztokréta (2020.01.06-2021.01.25.)
 -   [Discord](https://discord.gg/k3e2pqC)
 -   [Github repo](https://github.com/Coware-Apps/ellenorzo)
@@ -25,17 +34,8 @@
 -   [Telegram Chat](https://t.me/filcnaplo)
 -   [Telegram News](https://t.me/filcnaplo_hirlevel)
 
-### Napló + (2019.12.24-2021.01.26.)
--   [Github](https://github.com/Coware-Apps/naplo)
-
 ### reFilc (2023.05.29-Today)
 -   [Website](https://refilc.hu)
 -   [Discord](https://discord.com/invite/7d6cn3Yypz)
 -   [Github](https://github.com/refilc)
 -   [Telegram News](https://t.me/refilc)
-
-### Szivacs (2018.01.03-2020.01.28.)
--   [Github](https://github.com/boapps/Szivacs-Naplo)
--   [Github Old](https://github.com/boapps/eSzivacs)
--   [Github website](https://github.com/boapps/e-Szivacs-weboldal)
--   [Telegram](https://t.me/eSzivacs/)
