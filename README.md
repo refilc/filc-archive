@@ -28,7 +28,7 @@
 ### Napló + (2019.12.24-2021.01.26.)
 -   [Github](https://github.com/Coware-Apps/naplo)
 
-### reFilc (2023.05.26-Napjainkig)
+### reFilc (2023.05.29-Napjainkig)
 -   [Weboldal](https://refilc.hu)
 -   [Discord](https://discord.com/invite/7d6cn3Yypz)
 -   [Github](https://github.com/refilc)
