@@ -1,0 +1,57 @@
+.container {
+  position: relative;
+  height: 100vh;
+  width: 100%;
+
+  img {
+    height: 80vh;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .title {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 100%;
+    width: 50%;
+
+    h1 {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      left: 0;
+      font-size: 9vh;
+      font-weight: 800;
+      text-align: center;
+    }
+
+    h1.highlight {
+      color: #00ffd17f;
+      mask: url('/img/iphonecropped 2.png') center no-repeat;
+      mask-size: 67vh;
+    }
+  }
+
+  @media (orientation: portrait) {
+    img {
+      height: auto;
+      width: 80vw;
+    }
+
+    .title {
+      width: 100%;
+
+      h1 {
+        font-size: 9vw;
+      }
+
+      h1.highlight {
+        mask-size: 80vw;
+      }
+    }
+  }
+}

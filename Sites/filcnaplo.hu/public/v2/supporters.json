@@ -1,0 +1,135 @@
+{
+  "progress": {
+    "value": 11,
+    "max": 100
+  },
+  "top": [
+    {
+      "name": "valQ",
+      "amount": "$100",
+      "platform": "donate"
+    },
+    {
+      "name": "Kovax",
+      "amount": "$75.9",
+      "platform": "donate"
+    },
+    {
+      "name": "- névtelen -",
+      "amount": "$54",
+      "platform": "donate"
+    },
+    {
+      "name": "Neko Astolfo",
+      "amount": "$40",
+      "platform": "donate"
+    },
+    {
+      "name": "Horváth T.",
+      "amount": "$14",
+      "platform": "donate"
+    },
+    {
+      "name": "Nagy Márk",
+      "amount": "$5",
+      "platform": "patreon"
+    },
+    {
+      "name": "Csizmadia F.",
+      "amount": "$5",
+      "platform": "patreon"
+    },
+    {
+      "name": "fineszedző",
+      "amount": "$3",
+      "platform": "patreon"
+    }
+  ],
+  "all": [
+    {
+      "name": "manen",
+      "amount": "$6.9",
+      "platform": "donate"
+    },
+    {
+      "name": "kaletaa",
+      "amount": "$6",
+      "platform": "donate"
+    },
+    {
+      "name": "Bumi",
+      "amount": "$5",
+      "platform": "donate"
+    },
+    {
+      "name": "xou",
+      "amount": "$1",
+      "platform": "patreon"
+    },
+    {
+      "name": "dikahdoff",
+      "amount": "$1",
+      "platform": "patreon"
+    },
+    {
+      "name": "Ábel",
+      "amount": "$1",
+      "platform": "donate"
+    },
+    {
+      "name": "davie04",
+      "amount": "$1",
+      "platform": "patreon"
+    },
+    {
+      "name": "Techno",
+      "amount": "$1",
+      "platform": "patreon"
+    },
+    {
+      "name": "Stoke",
+      "amount": "$4",
+      "platform": "donate"
+    },
+    {
+      "name": "DarK",
+      "amount": "$3",
+      "platform": "donate"
+    },
+    {
+      "name": "dobroben",
+      "amount": "$3",
+      "platform": "donate"
+    },
+    {
+      "name": "AquaWolf04",
+      "amount": "$2",
+      "platform": "donate"
+    },
+    {
+      "name": "chromium",
+      "amount": "$2",
+      "platform": "donate"
+    },
+    {
+      "name": "mima47",
+      "amount": "$2",
+      "platform": "donate"
+    },
+    {
+      "name": "Giton",
+      "amount": "$1",
+      "platform": "donate"
+    },
+    {
+      "name": "PiciAkk",
+      "amount": "$1",
+      "platform": "patreon"
+    },
+    {
+      "name": "I existn't",
+      "amount": "$1",
+      "platform": "donate"
+    }
+  ]
+}

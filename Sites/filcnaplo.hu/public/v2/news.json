@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Nem akarnál lemondani a Filcről, igaz?",
+    "content": "Támogass minket GitHub Sponsorson, hogy összegyűljön az AppStore évi $100-os díja.\nSegítségeddel a Filc Naplót mindenkinek jobbá tehetjük.",
+    "link": "https://github.com/sponsors/filc",
+    "open_label": "TÁMOGATÁS",
+    "platform": "ios"
+  },
+  {
+    "title": "Szállj be!",
+    "content": "Támogasd a Filc Naplót GitHub Sponsorson, hogy még jobbá tehessük mindenkinek!\nEzzel abban is segítesz, hogy fenn maradhassunk AppStore-ban.",
+    "link": "https://github.com/sponsors/filc",
+    "open_label": "TÁMOGATÁS",
+    "platform": "android"
+  },
+  {
+    "title": "A Filc újra elérhető a Play Áruházban!",
+    "content": "Az appot újra közzétettük Playen, ez a tökéletes alkalom arra, hogy ajánld az appot az informatikához kevésbé értő osztálytársaidnak!\n\nMegtaláljátok \"Filc\"-re vagy akár \"Kréta\"-ra keresve, közvetlenül a [Ugrás a Playre] gomb megnyomásával juthatsz el az apphoz.\n\n== Mi változott azóta, hogy az előző verziót leszedette a Kréta? ==\n- Egy valami biztos nem: A Kréta. Nem ők engedték vissza, hanem mi tettük fel. Könnyen elképzelhető hogy pár hét/hónap múlva újra lekerül.\n- Mostantól kompatibilis a Playes és az .apk-ként letöltött verzió. A Filc automata frissítője működik a Playről letöltött appban, és a Play is tudja frissíteni az .apk-ként letöltött appot.\n\n== Egyúttal búcsúzunk az F-Droidtól :c ==\nA F-Droidos közzététellel az app automatikus frissítését szerettük volna megoldani, erre viszont már nincs szükség, mert bekerült a frissítő.\nA Filc nyílt forráskódú és szabad szoftver marad, de nem szeretnénk foglalkozni a hivatalos F-Droid tárban való közzététellel, a saját repós megoldás pedig nem tette kényelmesebbé az app letöltését vagy frissen tartását.\nHa F-Droidról van fenn nálad valamelyik 2.X verzió és még valamilyen csoda folytán működik, töltsd le a 3.0-t Playből vagy a weboldalunkról.\n\n== Frissítettük az adatvédelmi tájékoztatónkat a következő szakasszal: ==\n\"Az alkalmazás névtelen használati statisztikákat gyűjt, ezek alapján tudjuk meghatározni a felhasználók és a telepítések számát. Ezt a beállításokban kikapcsolhatod.\nKérünk, hogy ha csak teheted, hagyd ezt a funkciót bekapcsolva.\n\nAmikor az alkalmazás hibába ütközik, lehetőség van hibajelentés küldésére.\nEz személyes- vagy tanulmányi adatokat nem tartalmaz, viszont részletes információval szolgál a hibáról és eszközödről. A küldés előtt megjelenő képernyőn a te felelősséged átnézni a továbbításra kerülő adatsort.\nA hibajelentéseket a Filc fejlesztői felületén és egy privát Discord szobában tároljuk, ezekhez csak az app fejlesztői férnek hozzá.\"\n\nA teljes szöveget megtalálod az app Névjegy oldalán vagy weboldalunkon: https://filcnaplo.hu/privacy/\n\n\nVégigolvastad a teljes hírt? Szuper! Ne felejtsd el továbbadni a hírünket osztálytársaidnak ;)",
+    "link": "https://play.google.com/store/apps/details?id=hu.filc.naplo",
+    "open_label": "Ugrás a Playre",
+    "platform": "android"
+  },
+  {
+    "title": "Itt van a Filc 3.0!",
+    "content": "Másodjára újraírva, szebben, gyorsabban mint valaha, itt a Filc Napló 3.0!\n - Nincs több akadozó oldalváltás!\n - Gyönyörű új dizájn!\n - Még kevesebb kattintással a legfontosabb információknál!\n\nFONTOS!\nA Filc régi verzióiban a Kréta változása miatt nem biztos, hogy működik a bejelentkezés, mindenképp frissíts az új verzióra!\n\nTELEPÍTÉS - ANDROID:\nNyomj a profilképedre, majd alul a frissítés üzenetre, itt nyomd meg a letöltés gombot.\nA frissítő letölti az új verziót, majd megnyitja. Engedélyezd, és telepítsd az appot.\n\nAz új verzió külön appként fog feltelepülni az eszközödre, tehát egyszerre két Filced lesz. A régit törölheted (sötétebb árnyalatú az ikonja).\nAz első indításkor újra be kell majd jelentkezned, semmilyen adat nem kerül importálásra a régi verzióból!\n\nTELEPÍTÉS - IOS:\nA Filc weboldalán ( https://filcnaplo.hu ) nyomj a Letöltés, majd az AppStore gombra.\nKövesd a TestFlight utasításait a telepítéshez.\n\nA Megnyitás gombbal csatlakozhatsz a Discord szerverünkre, várunk ott is!\nNe felejtsd el ajánlani a Filcet osztálytársaidnak ;)",
+    "link": "https://filcnaplo.hu/discord/",
+    "open_label": "DISCORD",
+    "platform": "macos"
+  },
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {}
+]
