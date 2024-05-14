@@ -34,6 +34,6 @@
 -   [Github](https://github.com/refilc)
 -   [Telegram Hírlevél](https://t.me/refilc)
 
-### Szivacs (2018.09.01-2020.01.28.)
+### Szivacs (2018.01.03-2020.01.28.)
 -   [Github](https://github.com/boapps/Szivacs-Naplo)
 -   [Telegram](https://t.me/eSzivacs/)
